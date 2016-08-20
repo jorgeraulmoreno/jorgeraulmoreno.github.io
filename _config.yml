@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://jorgeraulmoreno.github.io
+title: Scriptonica
+email: jorgeraulmoreno@hotmail.com
+author: Jorge Moreno
+description: Scripts y Electronica
+paginate: 3
+google_analytics: 
